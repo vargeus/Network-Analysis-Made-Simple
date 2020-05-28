@@ -19,3 +19,7 @@ dependencies:
 - python-louvain
 - tqdm
 - ffmpeg
+<<<<<<< HEAD
+=======
+- nbstripout
+>>>>>>> 6fe83a4a54569fb07e61b2bb68ae63a5ac173165

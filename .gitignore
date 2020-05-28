@@ -5,7 +5,11 @@ datasets/divvy_2013/*
 datasets/amazon_reviews/*.json
 network
 __pycache__/*
+<<<<<<< HEAD
 .ipynb_checkpoints/*
+=======
+*.ipynb_checkpoints/*
+>>>>>>> 6fe83a4a54569fb07e61b2bb68ae63a5ac173165
 *.pyc
 custom/__pycache__/*
 .DS_Store
